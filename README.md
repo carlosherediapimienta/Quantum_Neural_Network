@@ -1,12 +1,11 @@
-# Primeros Pasos en el Campo de Quantum Neural Networks
+# First Steps in Quantum Neural Networks
 
-En esta fase inicial, nos sumergimos en el fascinante mundo de Quantum Neural Networks (QNN). Utilizaremos notebooks de Google Colab para reproducir ejercicios que abarcan:
+In this initial phase, we delve into the fascinating realm of Quantum Neural Networks (QNN). We will use Google Colab notebooks to reproduce exercises that cover:
 
 1. **Qiskit Ecosystem:**
-   - Exploraremos ejercicios que involucran el ecosistema de Qiskit, una plataforma de desarrollo cuántico de código abierto.
+   - Explore exercises involving the Qiskit ecosystem, an open-source quantum development platform.
 
 2. **Kaggle, Titanic:**
-   - Abordaremos ejercicios específicos relacionados con el conjunto de datos del Titanic en Kaggle. Este ejercicio nos permitirá aplicar y consolidar nuestros conocimientos en el campo de Quantum Neural Networks.
+   - Tackle specific exercises related to the Titanic dataset on Kaggle. This exercise will allow us to apply and solidify our knowledge in the field of Quantum Neural Networks.
 
-Estos notebooks nos servirán como una introducción práctica y aplicada, permitiéndonos familiarizarnos con los conceptos clave y las herramientas en el emocionante campo de Quantum Neural Networks.
-
+These notebooks will serve as a practical and applied introduction, helping us familiarize ourselves with key concepts and tools in the exciting field of Quantum Neural Networks.
